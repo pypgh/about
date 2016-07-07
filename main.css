@@ -22,3 +22,9 @@ text-align: center;
   text-align: center;
   font-family:Gill Sans, sans-serif;
 }
+
+.body_text{
+  text-align: center;
+  font-family:Gill Sans, sans-serif;
+  font-size:14px;
+}
