@@ -13,14 +13,9 @@ color: rgb(46,105,163);
 text-align: center;
 }
 
-p{
-font-size: 18px;
-font-family: 'Lato', sans-serif;
-/*text-align: center;*/
-}
 
-.bio{
-  /*text-align: center;*/
+.menu{
+  text-align: center;
   font-family: 'Lato', sans-serif;
 }
 
