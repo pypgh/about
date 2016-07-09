@@ -19,8 +19,15 @@ text-align: center;
 .menu{
   text-align: center;
   font-family: 'Lato', sans-serif;
+}
+
+#button1{
+   border: 2px solid white;
+   border-radius: 10px;
 
 }
+
+
 
 .body_text{
   text-align: center;
